@@ -1,0 +1,223 @@
+keyword,result,review
+,"{'label': 'LABEL_2', 'score': 0.4197276532649994}",hungriest owner
+,"{'label': 'LABEL_0', 'score': 0.47987058758735657}",hungry manager
+,"{'label': 'LABEL_0', 'score': 0.47987058758735657}",hungry manager
+,"{'label': 'LABEL_2', 'score': 0.6695612668991089}",general manager
+,"{'label': 'LABEL_0', 'score': 0.9755768775939941}",service is terrible
+,"{'label': 'LABEL_2', 'score': 0.9600819945335388}",quick service
+,"{'label': 'LABEL_2', 'score': 0.9877848625183105}",very friendly owner
+,"{'label': 'LABEL_0', 'score': 0.5550987124443054}",service here gets slower
+,"{'label': 'LABEL_0', 'score': 0.9748734831809998}",service was terrible
+,"{'label': 'LABEL_0', 'score': 0.9833463430404663}",waiter was rude
+,"{'label': 'LABEL_2', 'score': 0.5018893480300903}",young waitress
+,"{'label': 'LABEL_2', 'score': 0.8566052317619324}",new cook
+,"{'label': 'LABEL_2', 'score': 0.8146607279777527}",nice owner
+,"{'label': 'LABEL_2', 'score': 0.9820830821990967}",super pleasant service
+,"{'label': 'LABEL_0', 'score': 0.9238753318786621}",lazy waitress
+,"{'label': 'LABEL_0', 'score': 0.42688560485839844}",other staff
+,"{'label': 'LABEL_0', 'score': 0.9729376435279846}",confused waiters
+,"{'label': 'LABEL_0', 'score': 0.9879946112632751}",awful service
+,"{'label': 'LABEL_0', 'score': 0.9748734831809998}",service was terrible
+,"{'label': 'LABEL_0', 'score': 0.9764909744262695}",poor service
+,"{'label': 'LABEL_0', 'score': 0.6378319263458252}",odd service
+,"{'label': 'LABEL_1', 'score': 0.498198539018631}",manager seemed rather nice
+,"{'label': 'LABEL_0', 'score': 0.8347240686416626}",waiter was slow
+,"{'label': 'LABEL_2', 'score': 0.9961872696876526}",enthusiastic service
+,"{'label': 'LABEL_0', 'score': 0.924673855304718}",waitress was totally clueless
+,"{'label': 'LABEL_0', 'score': 0.9614561796188354}",service was awful
+,"{'label': 'LABEL_0', 'score': 0.9879946112632751}",awful service
+,"{'label': 'LABEL_0', 'score': 0.9614561796188354}",service was awful
+,"{'label': 'LABEL_0', 'score': 0.9855971932411194}",rude waitresses
+,"{'label': 'LABEL_0', 'score': 0.9453921318054199}",barely grudging service
+,"{'label': 'LABEL_0', 'score': 0.979035496711731}",lousy service
+,"{'label': 'LABEL_0', 'score': 0.979035496711731}",lousy service
+,"{'label': 'LABEL_0', 'score': 0.8611041307449341}",most ignorant bartender
+,"{'label': 'LABEL_0', 'score': 0.8303906321525574}",service very slow
+,"{'label': 'LABEL_0', 'score': 0.9849678874015808}",unwelcoming staff
+,"{'label': 'LABEL_0', 'score': 0.952393651008606}",service was extremely poor
+,"{'label': 'LABEL_0', 'score': 0.6728773713111877}",service was slow
+,"{'label': 'LABEL_0', 'score': 0.9875367283821106}",just awful service
+,"{'label': 'LABEL_0', 'score': 0.7310642004013062}",ok service
+,"{'label': 'LABEL_0', 'score': 0.9870314002037048}",rude waitstaff
+,"{'label': 'LABEL_0', 'score': 0.8101702332496643}",several waiters
+,"{'label': 'LABEL_2', 'score': 0.9948333501815796}",great service
+,"{'label': 'LABEL_0', 'score': 0.7953147888183594}",stuffy boss
+,"{'label': 'LABEL_2', 'score': 0.9863177537918091}",very friendly bartender
+,"{'label': 'LABEL_0', 'score': 0.9881734251976013}",incredibly poor service
+,"{'label': 'LABEL_0', 'score': 0.9821027517318726}",bartender was downright rude
+,"{'label': 'LABEL_2', 'score': 0.8584374785423279}",new bartender
+,"{'label': 'LABEL_2', 'score': 0.9960240125656128}",impeccable service
+,"{'label': 'LABEL_0', 'score': 0.934560239315033}",staff seems unhappy
+,"{'label': 'LABEL_0', 'score': 0.9647945761680603}",service is awful
+,"{'label': 'LABEL_0', 'score': 0.9748734831809998}",service was terrible
+,"{'label': 'LABEL_0', 'score': 0.9733228087425232}",staff super unfriendly
+,"{'label': 'LABEL_0', 'score': 0.9755768775939941}",service is terrible
+,"{'label': 'LABEL_2', 'score': 0.9600819945335388}",quick service
+,"{'label': 'LABEL_0', 'score': 0.9862316250801086}",terrible service
+,"{'label': 'LABEL_2', 'score': 0.43006986379623413}",female staff
+,"{'label': 'LABEL_2', 'score': 0.43006986379623413}",female staff
+,"{'label': 'LABEL_2', 'score': 0.5967136025428772}",hipster staff
+,"{'label': 'LABEL_0', 'score': 0.6728773713111877}",service was slow
+,"{'label': 'LABEL_0', 'score': 0.9764909744262695}",poor service
+,"{'label': 'LABEL_0', 'score': 0.9764909744262695}",poor service
+,"{'label': 'LABEL_0', 'score': 0.9833463430404663}",waiter was rude
+,"{'label': 'LABEL_0', 'score': 0.8149359822273254}",service was very slow
+,"{'label': 'LABEL_2', 'score': 0.45219144225120544}",more staff
+,"{'label': 'LABEL_2', 'score': 0.8861780166625977}",fast service
+,"{'label': 'LABEL_2', 'score': 0.8217042088508606}",hostess seating new
+,"{'label': 'LABEL_2', 'score': 0.7927906513214111}",staff gets busy
+,"{'label': 'LABEL_2', 'score': 0.4875594675540924}",former bartender
+,"{'label': 'LABEL_0', 'score': 0.9882634878158569}",very unprofessional service
+,"{'label': 'LABEL_2', 'score': 0.9545343518257141}",professional service
+,"{'label': 'LABEL_0', 'score': 0.9757794141769409}",service was horrible
+,"{'label': 'LABEL_0', 'score': 0.9764909744262695}",poor service
+,"{'label': 'LABEL_2', 'score': 0.9740900993347168}",good service
+,"{'label': 'LABEL_2', 'score': 0.6695612668991089}",general manager
+,"{'label': 'LABEL_0', 'score': 0.7187948822975159}",service is pretty bad
+,"{'label': 'LABEL_0', 'score': 0.9748734831809998}",service was terrible
+,"{'label': 'LABEL_0', 'score': 0.43835246562957764}",less abusive service
+,"{'label': 'LABEL_0', 'score': 0.9791321754455566}",bad service
+,"{'label': 'LABEL_0', 'score': 0.9648098945617676}",waiter got upset
+,"{'label': 'LABEL_0', 'score': 0.9648098945617676}",waiter got upset
+,"{'label': 'LABEL_2', 'score': 0.7157981991767883}",cooperative staff
+,"{'label': 'LABEL_0', 'score': 0.8719410300254822}",bored staff
+,"{'label': 'LABEL_0', 'score': 0.9759243130683899}",service is horrible
+,"{'label': 'LABEL_0', 'score': 0.98707515001297}",awful staff
+,"{'label': 'LABEL_0', 'score': 0.8938905000686646}",service was poor
+,"{'label': 'LABEL_0', 'score': 0.407784640789032}",previous owner
+,"{'label': 'LABEL_0', 'score': 0.6728773713111877}",service was slow
+,"{'label': 'LABEL_0', 'score': 0.6427003145217896}",minimal staff
+,"{'label': 'LABEL_0', 'score': 0.9692343473434448}",staff is generally inattentive
+,"{'label': 'LABEL_2', 'score': 0.6429466605186462}",first waitress
+,"{'label': 'LABEL_2', 'score': 0.8759567141532898}",big boss
+,"{'label': 'LABEL_0', 'score': 0.407784640789032}",previous owner
+,"{'label': 'LABEL_0', 'score': 0.766252338886261}",last owner
+,"{'label': 'LABEL_1', 'score': 0.42750152945518494}",manager seemed very stand offish
+,"{'label': 'LABEL_0', 'score': 0.7951885461807251}",old staff
+,"{'label': 'LABEL_2', 'score': 0.8074950575828552}",main cook
+,"{'label': 'LABEL_2', 'score': 0.6792553663253784}",new manager
+,"{'label': 'LABEL_2', 'score': 0.45219144225120544}",more staff
+,"{'label': 'LABEL_2', 'score': 0.6792553663253784}",new manager
+,"{'label': 'LABEL_0', 'score': 0.9846296906471252}",blonde waitress was so rude
+,"{'label': 'LABEL_0', 'score': 0.8464489579200745}",waitresses are slow
+,"{'label': 'LABEL_0', 'score': 0.9876018166542053}",worst service
+,"{'label': 'LABEL_0', 'score': 0.983906626701355}",rude waitress
+,"{'label': 'LABEL_0', 'score': 0.9614561796188354}",service was awful
+,"{'label': 'LABEL_0', 'score': 0.9764909744262695}",poor service
+,"{'label': 'LABEL_0', 'score': 0.9833463430404663}",waiter was rude
+,"{'label': 'LABEL_0', 'score': 0.9684032201766968}",owner looks arrogant
+,"{'label': 'LABEL_0', 'score': 0.5535133481025696}",service was definitely slow
+,"{'label': 'LABEL_0', 'score': 0.5321080088615417}",sometimes slow service
+,"{'label': 'LABEL_0', 'score': 0.9859960675239563}",really just horrible service
+,"{'label': 'LABEL_2', 'score': 0.955639123916626}",waiter showed up with full
+,"{'label': 'LABEL_0', 'score': 0.843218207359314}",very mediocre service
+,"{'label': 'LABEL_0', 'score': 0.9861061573028564}",incompetent service
+,"{'label': 'LABEL_0', 'score': 0.9764909744262695}",poor service
+,"{'label': 'LABEL_0', 'score': 0.9665597677230835}",very very very slow service
+,"{'label': 'LABEL_0', 'score': 0.9858767986297607}",horrible service
+,"{'label': 'LABEL_2', 'score': 0.9848321080207825}",friendly service
+,"{'label': 'LABEL_2', 'score': 0.955639123916626}",waiter showed up with full
+,"{'label': 'LABEL_2', 'score': 0.5515638589859009}",main bartender
+,"{'label': 'LABEL_0', 'score': 0.8789639472961426}",mediocre service
+,"{'label': 'LABEL_0', 'score': 0.5360655188560486}",short staff
+,"{'label': 'LABEL_2', 'score': 0.5570611953735352}",enough staff
+,"{'label': 'LABEL_0', 'score': 0.8620645403862}",slow service
+,"{'label': 'LABEL_0', 'score': 0.9764909744262695}",poor service
+,"{'label': 'LABEL_0', 'score': 0.9716606736183167}",consistently poor service
+,"{'label': 'LABEL_0', 'score': 0.7310642004013062}",ok service
+,"{'label': 'LABEL_0', 'score': 0.6598542332649231}",other waitress
+,"{'label': 'LABEL_0', 'score': 0.8620645403862}",slow service
+,"{'label': 'LABEL_0', 'score': 0.7041928768157959}",better service
+,"{'label': 'LABEL_2', 'score': 0.9948333501815796}",great service
+,"{'label': 'LABEL_0', 'score': 0.9757794141769409}",service was horrible
+,"{'label': 'LABEL_0', 'score': 0.5507896542549133}",entire waitstaff
+,"{'label': 'LABEL_0', 'score': 0.9830907583236694}",unfriendly service
+,"{'label': 'LABEL_0', 'score': 0.9862316250801086}",terrible service
+,"{'label': 'LABEL_0', 'score': 0.9357588887214661}",absent waitress
+,"{'label': 'LABEL_0', 'score': 0.9888362288475037}",inattentive staff
+,"{'label': 'LABEL_0', 'score': 0.962879478931427}",extremely slow service
+,"{'label': 'LABEL_0', 'score': 0.977169930934906}",waitress was terrible
+,"{'label': 'LABEL_0', 'score': 0.9791321754455566}",bad service
+,"{'label': 'LABEL_0', 'score': 0.9791321754455566}",bad service
+,"{'label': 'LABEL_0', 'score': 0.9858767986297607}",horrible service
+,"{'label': 'LABEL_0', 'score': 0.9836003184318542}",waitress rude
+,"{'label': 'LABEL_2', 'score': 0.9827987551689148}",seasoned waiter
+,"{'label': 'LABEL_0', 'score': 0.9879946112632751}",awful service
+,"{'label': 'LABEL_0', 'score': 0.9862316250801086}",terrible service
+,"{'label': 'LABEL_2', 'score': 0.7597249746322632}",snooty staff
+,"{'label': 'LABEL_1', 'score': 0.6642225980758667}",service was pretty slow
+,"{'label': 'LABEL_0', 'score': 0.9791321754455566}",bad service
+,"{'label': 'LABEL_0', 'score': 0.984641969203949}",rude bartender
+,"{'label': 'LABEL_2', 'score': 0.44319653511047363}",female bartender
+,"{'label': 'LABEL_0', 'score': 0.9879946112632751}",awful service
+,"{'label': 'LABEL_0', 'score': 0.9518980383872986}",waitress was visibly disappointed
+,"{'label': 'LABEL_0', 'score': 0.7041928768157959}",better service
+,"{'label': 'LABEL_0', 'score': 0.9862316250801086}",terrible service
+,"{'label': 'LABEL_0', 'score': 0.9801697134971619}",manager was so rude
+,"{'label': 'LABEL_0', 'score': 0.9813234210014343}",manager were so rude
+,"{'label': 'LABEL_0', 'score': 0.9791321754455566}",bad service
+,"{'label': 'LABEL_0', 'score': 0.9764909744262695}",poor service
+,"{'label': 'LABEL_1', 'score': 0.695610523223877}",decent service
+,"{'label': 'LABEL_0', 'score': 0.9446677565574646}",standoffish staff
+,"{'label': 'LABEL_2', 'score': 0.9774128794670105}",good cook
+,"{'label': 'LABEL_0', 'score': 0.9217584133148193}",far better service
+,"{'label': 'LABEL_0', 'score': 0.6728773713111877}",service was slow
+,"{'label': 'LABEL_0', 'score': 0.9748734831809998}",service was terrible
+,"{'label': 'LABEL_2', 'score': 0.8406365513801575}",waiters dress distractingly casual
+,"{'label': 'LABEL_2', 'score': 0.9679876565933228}",friendly staff
+,"{'label': 'LABEL_2', 'score': 0.9948333501815796}",great service
+,"{'label': 'LABEL_0', 'score': 0.7041928768157959}",better service
+,"{'label': 'LABEL_0', 'score': 0.9757794141769409}",service was horrible
+,"{'label': 'LABEL_0', 'score': 0.9831134080886841}",staff were rude
+,"{'label': 'LABEL_2', 'score': 0.9848321080207825}",friendly service
+,"{'label': 'LABEL_0', 'score': 0.9836488962173462}",really bad service
+,"{'label': 'LABEL_0', 'score': 0.7086881399154663}",service was also slow
+,"{'label': 'LABEL_0', 'score': 0.8037424683570862}",service just fall too short
+,"{'label': 'LABEL_0', 'score': 0.9808380007743835}",service was extremely rude
+,"{'label': 'LABEL_0', 'score': 0.9786278605461121}",staff was super rude
+,"{'label': 'LABEL_0', 'score': 0.9858767986297607}",horrible service
+,"{'label': 'LABEL_0', 'score': 0.9748734831809998}",service was terrible
+,"{'label': 'LABEL_0', 'score': 0.9853176474571228}",whole staff talking bad
+,"{'label': 'LABEL_0', 'score': 0.9569758176803589}",surly waitresses
+,"{'label': 'LABEL_0', 'score': 0.9282966256141663}",staff seems incapable
+,"{'label': 'LABEL_2', 'score': 0.5013948678970337}",waitress seemed more than happy
+,"{'label': 'LABEL_2', 'score': 0.8287878632545471}",original cook
+,"{'label': 'LABEL_0', 'score': 0.9764909744262695}",poor service
+,"{'label': 'LABEL_0', 'score': 0.9276425242424011}",most unpleasant waiter
+,"{'label': 'LABEL_0', 'score': 0.6351965665817261}",actual waitress
+,"{'label': 'LABEL_0', 'score': 0.9862316250801086}",terrible service
+,"{'label': 'LABEL_0', 'score': 0.9820568561553955}",staff was rude
+,"{'label': 'LABEL_0', 'score': 0.9843987226486206}",bartender was very rude
+,"{'label': 'LABEL_0', 'score': 0.3406292200088501}",different waiters
+,"{'label': 'LABEL_2', 'score': 0.45219144225120544}",more staff
+,"{'label': 'LABEL_0', 'score': 0.977169930934906}",waitress was terrible
+,"{'label': 'LABEL_0', 'score': 0.7387978434562683}",other waitresses
+,"{'label': 'LABEL_2', 'score': 0.8660174012184143}",nice staff
+,"{'label': 'LABEL_0', 'score': 0.9748734831809998}",service was terrible
+,"{'label': 'LABEL_0', 'score': 0.7041928768157959}",better service
+,"{'label': 'LABEL_2', 'score': 0.46230095624923706}",assistant manager
+,"{'label': 'LABEL_0', 'score': 0.9790801405906677}",hostess was rude
+,"{'label': 'LABEL_0', 'score': 0.9862316250801086}",terrible service
+,"{'label': 'LABEL_0', 'score': 0.952393651008606}",service was extremely poor
+,"{'label': 'LABEL_0', 'score': 0.9858229756355286}",waitress was inattentive
+,"{'label': 'LABEL_0', 'score': 0.9876018166542053}",worst service
+,"{'label': 'LABEL_0', 'score': 0.5882625579833984}",hostess seemed almost surprised
+,"{'label': 'LABEL_0', 'score': 0.9768547415733337}",waitress was clueless
+,"{'label': 'LABEL_2', 'score': 0.7508113384246826}",quiet manager
+,"{'label': 'LABEL_0', 'score': 0.9764909744262695}",poor service
+,"{'label': 'LABEL_0', 'score': 0.9879946112632751}",awful service
+,"{'label': 'LABEL_0', 'score': 0.9858767986297607}",horrible service
+,"{'label': 'LABEL_0', 'score': 0.8149359822273254}",service was very slow
+,"{'label': 'LABEL_0', 'score': 0.8818100690841675}",service was so slow
+,"{'label': 'LABEL_0', 'score': 0.9876018166542053}",worst service
+,"{'label': 'LABEL_0', 'score': 0.7526998519897461}",service was super slow
+,"{'label': 'LABEL_0', 'score': 0.9757794141769409}",service was horrible
+,"{'label': 'LABEL_0', 'score': 0.9233796000480652}",service is bad
+,"{'label': 'LABEL_0', 'score': 0.9794727563858032}",bartender was really rude
+,"{'label': 'LABEL_0', 'score': 0.9791321754455566}",bad service
+,"{'label': 'LABEL_0', 'score': 0.9490799307823181}",waitress looked annoyed
+,"{'label': 'LABEL_0', 'score': 0.9526174068450928}",service is so poor
+,"{'label': 'LABEL_0', 'score': 0.9748734831809998}",service was terrible
+,"{'label': 'LABEL_0', 'score': 0.7881764769554138}",routine service
+,"{'label': 'LABEL_0', 'score': 0.9811118245124817}",very poor service
+,"{'label': 'LABEL_2', 'score': 0.9948333501815796}",great service
