@@ -3,7 +3,7 @@
 ### Analysing online reviews to refine business' service quality
 
 <br>
-Introduction
+** Introduction **
 
 In this repository we will analyse YELP online reviews to refine restaurant quality. 
 <br>
