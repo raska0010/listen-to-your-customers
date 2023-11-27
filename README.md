@@ -1,3 +1,5 @@
+**Capstone Project from Kamruddin A., Theresa B.,  Sining D. & Robert S. in the neuefische Data Analytics Bootcamp, 2023**
+
 ## Listen to your  customers
 
 ### Analysing online reviews to refine business' service quality
