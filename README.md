@@ -13,6 +13,7 @@ This is devided in two steps: Taking a closer look to the business attributes, i
 In the second step the sentiment analysis is in the center of attention. To get to know if we can implement the customer reviews to improve the star ranking of restaurants.
 
 **First of all: Let's clean the data!**
+<br>
 First we downloaded the Dataset provided by Yelp.com
 
 Then we took a look at the business dataframe and cleaned it.
