@@ -1,6 +1,6 @@
 **Capstone Project from Kamruddin A., Theresa B.,  Sining D. & Robert S. ; Data Analytics Bootcamp by neuefische, 2023**
 
-![ ](https://www.google.com/imgres?imgurl=https%3A%2F%2Fgocreativewireless.net%2Fwp-content%2Fuploads%2F2017%2F08%2Fyelp-logo-transparent-300h.png&tbnid=kJRZ1SCOAuTqKM&vet=12ahUKEwib5oa_tOWCAxWNyQIHHSzaA8cQMygcegUIARCxAQ..i&imgrefurl=https%3A%2F%2Fgocreativewireless.net%2Ftestamonials%2Fyelp-business-reviews%2Fyelp-logo-transparent-300h%2F&docid=ChE8d0dC92GHRM&w=673&h=300&q=yelp%20pic&client=safari&ved=2ahUKEwib5oa_tOWCAxWNyQIHHSzaA8cQMygcegUIARCxAQ)
+<iframe src="https://giphy.com/embed/vgzyAN43REBCoI4ns0" width="400" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/YelpSanAntonio-yelp-yelpsanantonio-vgzyAN43REBCoI4ns0">via GIPHY</a></p>
 
 ## Listen to your  customers
 
