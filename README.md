@@ -36,5 +36,5 @@ There are 4 categories we analysed: food, service, ambience & location and price
 The most matches were found in food & service. 
 
 
-**For our final presentation you can  [click](https://www.canva.com/design/DAF0avXAMVE/k72AP0zTyQgdv65lY87ZMg/view)https://www.canva.com/design/DAF0avXAMVE/k72AP0zTyQgdv65lY87ZMg/view) here**
+**For our final presentation you can  [click]( [*click*](https://www.canva.com/design/DAF0avXAMVE/k72AP0zTyQgdv65lY87ZMg/view) here**
 
