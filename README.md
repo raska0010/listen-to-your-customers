@@ -34,7 +34,7 @@ This you can see in the 'EDA_yelp.ipynb' file.
 
 In the last step we used sentiment analysis to check the customer reviews for potential for improvement. 3.5 rankings could be positive or negative, that is why we first filtered to the negativ ones. This happens in the 'SentimentAnalysis' notebook.
 
-The review analysis occurs in the 'reviews_analysis' notebook 
+The review analysis occurs in the 'reviews_analysis' notebook.
 We use spaCy to find out what customers are complaining about.
 There are 4 categories we analysed: food, service, ambience & location and price. To visualize the matches we used wordclouds. 
 The most matches were found in food & service. 
