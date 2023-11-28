@@ -1,6 +1,6 @@
 **Capstone Project from Kamruddin A., Theresa B.,  Sining D. & Robert S. ; Data Analytics Bootcamp by neuefische, 2023**
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB5OHl0ejBpZ25hMzZ4N3d5ZG5veTIzczZvcmZndTRna3BiOGE2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vgzyAN43REBCoI4ns0/giphy.gif))
+![](https://media.giphy.com/media/fo1UMrMcEVPNRzpJ1G/giphy.gif)
 
 ## Listen to your  customers
 
