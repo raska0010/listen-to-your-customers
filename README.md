@@ -18,8 +18,23 @@ First we downloaded the Dataset provided by Yelp.com
 
 Then we took a look at the business dataframe and cleaned it.
 Since 39% of customers trust a business with at least 3.5 stars and 79% of customers trust a business with at least 4 stars, we decided to take a closer look to the 3.5 star ranked restaurants in Pennsylvania. Why Penssylvania? Since there are the most reviewed restaurants in the US we will have a lot of data and reviews to analyse.
-
+<br>
+**For further data cleaning check the 'data_cleaning' notebook!**
+<br>
 ### Yelp Business Attributes
-
+<br>
+First we checked if there is a correlation between business attributes and star ranking.
+This you can see in the 'EDA_yelp.ipynb' file.
 
 ### Yelp Customer Reviews
+<br>
+In the last step we used sentiment analysis to check the customer reviews for potential for improvement. 3.5 rankings could be positive or negative, that is why we first filtered to the negativ ones. This happens in the 'SentimentAnalysis' notebook.
+
+The review analysis occurs in the 'reviews_analysis' notebook 
+We use spaCy to find out what customers are complaining about.
+There are 4 categories we analysed: food, service, ambience & location and price. To visualize the matches we used wordclouds. 
+The most matches were found in food & service. 
+
+
+**For our final presentation you can  [*click*]([3_Intro_to_Notebooks.ipynb](https://www.canva.com/design/DAF0avXAMVE/k72AP0zTyQgdv65lY87ZMg/view)https://www.canva.com/design/DAF0avXAMVE/k72AP0zTyQgdv65lY87ZMg/view) here**
+
