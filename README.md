@@ -23,7 +23,7 @@ Since 39% of customers trust a business with at least 3.5 stars and 79% of custo
 <br>
 Why Penssylvania? Since there are the most reviewed restaurants in the US we will have a lot of data and reviews to analyse.
 <br>
-**For further data cleaning check the 'data_cleaning' notebook!**
+For further data cleaning check the 'data_cleaning' notebook.
 <br>
 ### Yelp Business Attributes
 
